@@ -3,7 +3,7 @@
 ## 1. 사진 변경
 
 originImage.jpg ➡️ nanobanana_image.png
-![원본이미지](C:\Users\esilv\OneDrive\바탕 화면\DL\originImage.jpg) ➡️ ![변경이미지](C:\Users\esilv\OneDrive\바탕 화면\DL\nanobanana_image.png)
+![원본이미지](/originImage.jpg) ➡️ ![변경이미지](/nanobanana_image.png)
 이 캐릭터 사진을 실제 사람이 해당 캐릭터의 인형탈을 입고 똑같은 포즈로 서 있는 사진으로 바꿔줘.
 ---
 ## 2. 동영상 제작
