@@ -4,9 +4,7 @@
 
 originImage.jpg ➡️ nanobanana_image.png
 
-<img src="./originImage.jpg" alt="원본이미지" width="200">
-➡️
-<img src="./nanobanana_image.png" alt="변경이미지" width="200">
+<img src="./originImage.jpg" alt="원본이미지" width="200"> ➡️ <img src="./nanobanana_image.png" alt="변경이미지" width="200">
 
 이 캐릭터 사진을 실제 사람이 해당 캐릭터의 인형탈을 입고 똑같은 포즈로 서 있는 사진으로 바꿔줘.
 
