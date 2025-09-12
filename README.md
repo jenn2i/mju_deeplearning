@@ -1,16 +1,24 @@
-# 사용한 프롬프트
+# 딥러닝 과제 레포지토리
 
-## 1. 사진 변경
+본 레포지토리는 딥러닝 강의 과제를 위해 제작되었습니다.
+각 과제별 결과물은 개별 폴더에 정리되어 있으며, 각각의 README를 통해 확인할 수 있습니다.
 
-originImage.jpg ➡️ nanobanana_image.png
+## 폴더구조
+├── [HW0]_VibeCoding
+├── [HW1]_daily_chatbot
+└── README.md
 
-<img src="/originImage.jpg" alt="원본이미지" width="200">➡️
-<img src="/nanobanana_image.png" alt="변경이미지" width="200">
+## [HW0]_기본 설정
+- **주제**
+1. 선택한 사진을 Nano Banana를 이용해 변환
+2. 변환된 이미지를 활용해 veo3로 동영상 제작
+3. 원본 사진, 변환된 사진, 영상 결과물 정리
 
-이 캐릭터 사진을 실제 사람이 해당 캐릭터의 인형탈을 입고 똑같은 포즈로 서 있는 사진으로 바꿔줘.
+👉🏻 결과물: [HW0 폴더](./[HW0]_VibeCoding/)
 
-## 2. 동영상 제작
+## [HW1]_
+- **주제**
+    - 평소 자동화하고 싶었거나 구현하고 싶었던 주제로 프로젝트 기획
+    - Gemini CLI를 활용해 프로젝트 구현
 
-nanobanana_image.png ➡️ ve03_video.mp4
-
-이 사진에서 왼쪽의 마이멜로디와 오른쪽의 쿠로미 캐릭터가 살아 움직여서 서로 악수하는 영상으로 만들어줘. 입이 웃는 모습과 눈이 깜빡거리는 모션도 추가해줘.
+👉🏻 결과물: [HW1 폴더](./[HW1]_daily-chatbot/)
