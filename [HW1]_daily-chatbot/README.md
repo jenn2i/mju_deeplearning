@@ -1,4 +1,5 @@
-# 💬 Daily Chatbot - 마음 일기
+# 💬 프로젝트 제목
+Daily Chatbot - 마음 일기
 
 ## 📌 프로젝트 개요
 이 프로젝트는 사용자의 하루를 기록하고 감정을 관리할 수 있도록 돕는 **상담 앱 스타일 챗봇**입니다.  
@@ -19,6 +20,7 @@
 ---
 
 ## 📂 폴더 구조
+```
 ├── .next/                      # Next.js 빌드 결과물
 ├── data/
 │ └── answers.json              # 답변 저장 (자동 생성/갱신)
@@ -36,3 +38,4 @@
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
