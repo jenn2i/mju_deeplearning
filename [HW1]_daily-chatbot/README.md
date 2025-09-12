@@ -1,7 +1,10 @@
-# Daily Chatbot - 마음 일기
+# Daily Chatbot; 마음 일기
+
+---
 
 ## 💬 프로젝트 제목
 한글: 마음 일기
+
 영문: Daily Chatbot
 
 ## 📌 프로젝트 개요
@@ -10,17 +13,13 @@
 
 질문 리스트는 `questions.txt` 파일에서 불러오며, 프론트엔드(UI)와 백엔드(API)가 모두 구현되어 있습니다.  
 
----
-
 ## 🛠️ 기술 스택
 - **Frontend**: Next.js, React, TypeScript  
 - **Backend**: Next.js API Routes (Node.js 기반)  
 - **Data**:  
   - `public/questions.txt` → 질문 모음  
   - `data/answers.json` → 답변 기록 저장 (JSON 형식)  
-- **Style**: 상담 앱과 비슷한 대화 UI  
-
----
+- **Style**: 상담 앱과 비슷한 대화 UI
 
 ## 📂 폴더 구조
 ```
